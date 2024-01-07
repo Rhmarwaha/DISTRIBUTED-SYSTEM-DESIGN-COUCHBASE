@@ -27,7 +27,7 @@ This project focuses on the design and implementation of a distributed system us
 
 ## Demo
 
-Check out the live demo [here](demo.mp4).
+Check out the live demo [here](DEMO.mp4).
 
 ## Configuration
 
