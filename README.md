@@ -31,7 +31,7 @@ Check out the live demo [here](DEMO.mp4).
 
 ## Configuration
 
-- Adjust the number of nodes, cluster settings, and other configurations in the Docker Compose file (`docker-compose.yml`) to meet specific requirements.
+- Adjust the number of nodes, cluster settings, and other configurations to meet specific requirements.
 
 ## Dataset
 
